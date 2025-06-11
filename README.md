@@ -1,18 +1,48 @@
-## Getting Started
+# Fundamentos de Java ☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório tem como objetivo registrar minha evolução no aprendizado dos **fundamentos de Java**, desde os conceitos básicos até estruturas mais avançadas da linguagem. A ideia é manter um histórico claro e organizado, útil tanto para revisão quanto para compartilhar com a comunidade.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📚 Conteúdo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- [x] Introdução ao Java
+  - História e características
+  - Configuração do ambiente (JDK + IDE)
+- [x] Sintaxe básica
+  - Tipos primitivos
+  - Variáveis e constantes
+  - Operadores
+- [x] Controle de fluxo
+  - `if`, `else`, `switch`
+  - Laços: `for`, `while`, `do-while`
+- [x] Métodos
+  - Declaração e uso
+  - Parâmetros e retorno
+- [x] Orientação a Objetos (OOP)
+  - Classes e Objetos
+  - Construtores
+  - Encapsulamento
+  - Herança
+  - Polimorfismo
+- [ ] Arrays e Coleções
+- [ ] Manipulação de Strings
+- [ ] Tratamento de Exceções
+- [ ] Entrada e Saída (I/O)
+- [ ] Projeto prático final
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠 Tecnologias e Ferramentas
 
-## Dependency Management
+- Java (JDK 17+)
+- IntelliJ IDEA / VS Code
+- Git e GitHub
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🚀 Como acompanhar
+
+Você pode acompanhar meu progresso acessando os diretórios deste repositório. Cada pasta contém códigos e anotações relacionados ao tema estudado.
+
+Exemplo de estrutura:
