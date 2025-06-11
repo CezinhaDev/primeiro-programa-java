@@ -1,3 +1,4 @@
+package br.com.cesarhenrique.relogio;
 /*<tipo de retorno do metodo> identificador(<tipo> parametro){
  * retorna valor;
  * }

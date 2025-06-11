@@ -1,4 +1,5 @@
-public class App {
+package br.com.cesarhenrique.relogio;
+public class Estruturas {
     public static void main(String[] args) throws Exception {
         // <tipo> identificador = valor;
         /* <tipo> identificador = valor; */

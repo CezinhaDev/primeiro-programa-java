@@ -1,3 +1,4 @@
+package br.com.cesarhenrique.relogio;
 public class Despertador {
     int horas;
     int minutos;
@@ -8,6 +9,8 @@ public class Despertador {
     }
 
     String agendarAlarme() {
+        String hora;
+        String minuto;
         return "Seu alarme foi agendado para " + hora + ":" + minuto;
     }
 }
